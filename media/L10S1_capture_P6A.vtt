@@ -1,0 +1,15 @@
+WEBVTT
+
+NOTE kind=ledger capture
+NOTE run_ref=L10S1-PDKI
+
+00:00:00.000 --> 00:00:02.000
+ledger calibration
+
+00:00:02.000 --> 00:00:03.000
+series_id=GC=F
+observation_date=2019-03-05
+rounding_rule=round_nearest_integer
+
+00:00:03.000 --> 00:00:10.000
+ledger readout complete
